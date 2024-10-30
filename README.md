@@ -2,7 +2,7 @@
 <h1 align="">
   👋 Hello! I’m Jónína  
 </h1>
-<p align="end">
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,10 +30,10 @@
 
 
 ### 🏆 GitHub Trophies
-<p align="left">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jayb2302&theme=darkhub&row=1&column=6" />
 </p>
-<p align="end">
+<p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayb2302&layout=compact&theme=one_dark_pro&langs_count=8" />
 </a>
